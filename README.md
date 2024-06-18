@@ -27,7 +27,10 @@ BlueBird-Movies is built using the following technologies:
 - Firebase Google Authentication
 - Framer Motion
 
+<hr>
+🍿 Demo at - https://bluebirdmovies.netlify.app/
 
+<hr/>
 
 
 
